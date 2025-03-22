@@ -1,8 +1,8 @@
-mediapipe-0.10.14
+mediapipe==0.10.14
 
-protobuf-4.25.4
+protobuf==4.25.4
 
-tensorflow 2.17.0
+tensorflow==2.17.0
 
 numpy==1.25.2
 
