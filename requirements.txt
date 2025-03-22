@@ -1,0 +1,8 @@
+numpy==1.24.3
+opencv-python==4.7.0.72
+mediapipe==0.9.1.0
+pyautogui==0.9.53
+streamlit==1.25.0
+Pillow==9.5.0
+cvzone==1.5.6
+google-generativeai==0.1.0
