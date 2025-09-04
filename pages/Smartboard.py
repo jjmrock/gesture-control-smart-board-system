@@ -7,7 +7,7 @@ import streamlit as st
 import google.generativeai as genai
 
 model = genai.GenerativeModel("gemini-1.5-flash")
-genai.configure(api_key="AIzaSyD2SdJNADszm-p5fDflilGUQnNLcH0FShE")
+genai.configure(api_key="putyourapi")
 
 st.set_page_config(layout="wide")
 st.image("han.png")
